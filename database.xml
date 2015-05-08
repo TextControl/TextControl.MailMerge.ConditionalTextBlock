@@ -1,0 +1,27 @@
+<reports>
+
+  <customer>
+    <customerID>1</customerID>
+    <lastName>Jackson</lastName>
+    <firstName>Paul</firstName>
+    <country>United States</country>
+    <vip>True</vip>
+  </customer>
+
+  <customer>
+    <customerID>2</customerID>
+    <lastName>Murphey</lastName>
+    <firstName>Peter</firstName>
+    <country>Germany</country>
+    <vip>True</vip>
+  </customer>
+
+  <customer>
+    <customerID>3</customerID>
+    <lastName>Hollister</lastName>
+    <firstName>Phyllis</firstName>
+    <country>Italy</country>
+    <vip>False</vip>
+  </customer>
+
+</reports>
